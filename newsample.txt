@@ -1,1 +1,0 @@
--rwxr--r--@ 1 bilimbek  staff     0 Mar  4 09:51 newsample.txt
